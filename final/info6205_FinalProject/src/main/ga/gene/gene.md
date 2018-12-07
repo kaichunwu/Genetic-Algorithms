@@ -1,0 +1,3 @@
+This folder is for the basic class.  
+Point class is aimed to save x , y for each point and also to calculate the distance between two points and to convert x , y which is as genotype to phenotype which is an array of size 8 for byte.  
+Generation class is to make it simple to express one generation. There are three attitudes which are three arrays. One for genotype, one for phenotype and one for fitness.

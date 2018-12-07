@@ -1,0 +1,1 @@
+This folder is just for the class to read and generate picture.  
