@@ -1,4 +1,4 @@
-# Team INFO6205_221 Final Project Introduction
+# Introduction
 ## Topic: Genetic Algorithms For Black-and-White Image
   Give a black-and-white picture as input and return a picture that looks like the orignal one.
 ## Implement
