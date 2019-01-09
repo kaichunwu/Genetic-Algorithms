@@ -1,4 +1,4 @@
-#Main Algorithm:  
+# Main Algorithm:  
 Init class for initialization the generation.  
 Survive class for the half survive each generation.  
 Selection class for selection.  
