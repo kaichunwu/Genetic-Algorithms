@@ -1,1 +1,6 @@
 *.png linguist-language=Java
+*.log.1 linguist-language=Java
+*.log.2 linguist-language=Java
+*.log.3 linguist-language=Java
+*.log.4 linguist-language=Java
+*.log.5 linguist-language=Java
